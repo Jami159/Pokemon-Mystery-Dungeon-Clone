@@ -1,0 +1,16 @@
+9 11
+6 9
+B 15
+poke 5 40
+0
+5
+1 5
+pidgey 12 15
+3 8
+bulbasaur 11 13
+7 12
+slowking 13 16
+9 14
+alakazam 15 17
+12 14
+lucario 16 19

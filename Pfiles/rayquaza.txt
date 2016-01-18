@@ -1,0 +1,16 @@
+rayquaza dragon flying
+105 150 90
+2.65 2.8 1.7
+220
+slow
+0 none
+3 3 3 3 95
+1 twister
+9 crunch
+17 slash
+26 aerial-ace
+34 dragon-claw
+43 ancientpower
+47 swords-dance
+55 rest
+70 hyper-beam

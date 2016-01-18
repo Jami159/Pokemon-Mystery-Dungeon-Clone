@@ -1,0 +1,18 @@
+9 11
+8 10
+B 21
+poke 5 40
+0
+6
+1 8
+aerodactyl 18 21
+3 11
+alakazam 20 22
+7 16
+lucario 21 24
+10 19
+dragonite 24 26
+17 20
+mewtwo 28 28
+19 20
+rayquaza 30 30

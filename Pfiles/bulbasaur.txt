@@ -1,0 +1,16 @@
+bulbasaur grass none
+45 49 49
+2.1 1.6 1.4
+64
+mediumslow
+16 ivysaur
+1 3 2 2 41
+1 tackle
+3 growl
+8 absorb
+13 vine-whip
+20 poisonpowder
+27 razor-leaf
+30 sleep-powder
+38 solar-beam
+45 synthesis

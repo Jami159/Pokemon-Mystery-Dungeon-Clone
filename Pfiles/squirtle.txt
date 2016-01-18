@@ -1,0 +1,16 @@
+squirtle water none
+44 48 65
+2.2 1.25 1.7
+63
+mediumslow
+16 wartortle
+1 3 3 3 29
+1 tackle
+4 tail-whip
+9 bubble
+17 water-gun
+22 bite
+29 protect
+32 water-pulse
+41 iron-defence
+49 hydro-pump

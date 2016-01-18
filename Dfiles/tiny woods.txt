@@ -1,0 +1,17 @@
+3 4
+2 3
+B 4
+poke 5 40
+6
+oran-berry
+pecha-berry
+elixir
+sleep-seed
+blast-seed
+reviver-seed
+2
+1 3
+pidgey 1 1
+1 3
+bulbasaur 1 1
+

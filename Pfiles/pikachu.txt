@@ -1,0 +1,16 @@
+pikachu electric none
+35 55 30
+2 1.8 1.2
+82
+medium-fast
+0 none
+2 3 2 2 33
+1 tackle
+5 growl
+9 tail-whip
+11 bite
+18 thunder-wave
+25 slam
+32 thunderbolt
+41 thunder
+52 discharge

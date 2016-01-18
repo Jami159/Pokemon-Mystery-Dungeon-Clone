@@ -1,0 +1,16 @@
+mewtwo psychic none
+106 110 90
+2.7 3 1.4
+226
+slow
+0 none
+2 2 5 5 90
+1 confusion
+8 swift
+14 slash
+21 psybeam
+29 recover
+37 psychic
+47 protect
+55 swords-dance
+61 aura-sphere

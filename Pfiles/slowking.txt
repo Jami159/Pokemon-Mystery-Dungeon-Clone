@@ -1,0 +1,15 @@
+slowking water psychic
+95 75 100
+2.9 1.8 1.6
+164
+medium-fast
+0 none
+3 3 3 3 60
+1 tackle
+6 growl
+11 water-gun
+18 confusion
+26 headbutt
+31 water-pulse
+42 psychic
+51 hydro-pump

@@ -1,0 +1,16 @@
+lucario steel fighting
+70 110 70
+2.3 2.3 1.8
+204
+medium-slow
+0 none
+3 3 4 2 59
+1 tackle
+5 iron-tail
+9 karate-chop
+15 bite
+23 seismic-toss
+31 dragon-claw
+39 aura-sphere
+46 swords-dance
+55 hyper-beam

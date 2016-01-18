@@ -1,0 +1,16 @@
+dragonite dragon flying
+91 134 95
+2.7 2.5 2
+218
+slow
+0 none
+3 3 3 1 44
+1 fire-punch
+3 thunder-punch
+7 twister
+15 dragon-rage
+21 slam
+27 gust
+35 thunderbolt
+41 wing-attack
+55 hyper-beam

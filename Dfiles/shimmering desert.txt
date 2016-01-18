@@ -1,0 +1,12 @@
+6 8
+6 7
+B 11
+poke 5 40
+0
+3
+1 7
+charmander 10 12
+3 9
+aerodactyl 13 14
+8 11
+alakazam 16 16

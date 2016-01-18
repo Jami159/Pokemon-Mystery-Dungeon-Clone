@@ -1,0 +1,12 @@
+eevee normal none
+55 55 55
+2 1.5 1.45
+92
+medium-fast
+0 none
+1 tackle
+5 growl
+7 tail-whip
+11 bite
+19 take-down
+

@@ -1,0 +1,16 @@
+aerodactyl rock flying
+80 105 65
+2.3 2.1 1.5
+202
+medium-slow
+0 none
+2 2 3 3 39
+1 wing-attack
+5 supersonic
+10 bite
+19 take-down
+26 ancientpower
+33 crunch
+41 rock-slide
+47 iron-tail
+55 hyper-beam

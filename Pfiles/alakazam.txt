@@ -1,0 +1,12 @@
+alakazam psychic none
+90 80 50
+2 3 2.3
+186
+medium-slow
+0 none
+1 3 2 2 74
+1 psybeam
+10 confusion
+19 recover
+25 psychic
+31 psychic

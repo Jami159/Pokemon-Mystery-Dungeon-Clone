@@ -1,0 +1,13 @@
+6 8
+5 6
+B 9
+poke 5 40
+0
+3
+1 6
+pikachu 7 10
+2 5
+pidgey 6 7
+4 9
+bulbasaur 8 11
+
